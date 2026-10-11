@@ -1,0 +1,16 @@
+{
+  "name": "Rastreador de movimento ALIEN",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "description": "Detector de movimento com bipe que acelera conforme o alvo se aproxima, para mesas de ALIEN RPG.",
+  "author": "Adilson",
+  "icon": "/rastreador-alien/icon.svg",
+  "background_url": "/rastreador-alien/bg.html",
+  "action": {
+    "title": "Rastreador de movimento",
+    "icon": "/rastreador-alien/icon.svg",
+    "popover": "/rastreador-alien/index.html",
+    "width": 380,
+    "height": 560
+  }
+}
